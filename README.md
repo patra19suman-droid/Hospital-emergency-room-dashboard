@@ -2,8 +2,6 @@
 
 ### 📊 Monthly Performance Analysis | Excel Dashboard Project
 
-![Hospital Dashboard Preview](Hospital_Dashboard_Excel.png)
-
 ---
 
 ## 📘 Project Overview
@@ -35,7 +33,8 @@ To analyze and visualize hospital emergency room data for tracking:
    - 📊 *Department Referral Analysis* (Bar chart)  
    - 🕓 *Patient Attended Status* (On Time vs Delay – Pie chart)  
    - 👩‍⚕️ *Gender Distribution* (Male vs Female – Donut chart)  
-   - 📅 *Patient Age Group* (Histogram)  
+   - 📅 *Patient Age Group* (Histogram)
+
 ✅ **Admission Status Tracker** – Displays admitted vs non-admitted ratios with percentage bars  
 ✅ **Year Toggle Buttons (2023–2024)** – Enables year-wise data comparison  
 
@@ -68,7 +67,7 @@ To analyze and visualize hospital emergency room data for tracking:
 
 ## 🚀 How to Use
 
-1. Download the file 👉 [Hospital_Dashboard.xlsx](Hospital_Dashboard.xlsx)  
+1. Download the file 👉 [Hospital_Dashboard.xlsx]
 2. Open in **Microsoft Excel (2019 or later)**  
 3. Enable macros or interactions if prompted  
 4. Use the month buttons or slicers to explore trends  
