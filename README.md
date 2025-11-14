@@ -30,6 +30,7 @@ To analyze and visualize hospital emergency room data for tracking:
    - Total Patients:  
    - Avg. Wait Time: 
    - Satisfaction Score: 
+
 ✅ **Charts & Visuals**
    - 📊 *Department Referral Analysis* (Bar chart)  
    - 🕓 *Patient Attended Status* (On Time vs Delay – Pie chart)  
